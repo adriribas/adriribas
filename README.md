@@ -1,13 +1,3 @@
-## Welcome
-
-- 👋 Hi! My name is **Adrià Ribas** and I'm :two::two: years old
-- 🏡 I'm from **L'Escala**, but currently I'm living in **Girona**, **Catalonia**
-- 👨‍🎓 I'm finishing my studies in **computer engineering** at **University of Girona**
-- 💼 Since January 2022 I'm in internship at [Comexi](https://comexi.com/), developing BSP aplications
-- 📨 You can reach me through this email address: **ribasadria00@gmail.com**
-
----
-
 ### Welcome to my GitHub profile! 👋
 
 My name is **Adrià Ribas** and I'm a **Computer Engineering** graduate from [University of Girona](https://www.udg.edu/) since **January 2023**. I've been an IT enthusiast since I was a child. In fact, I knew from a very young age that I wanted to devote my life to computing.
