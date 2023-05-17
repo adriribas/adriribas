@@ -36,21 +36,6 @@ Whenever I'm not coding, I love to learn about the universe, to play PC games an
 
 #### Thank you for stopping by. I hope you have a nice day! :heart:
 
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriribas&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/adriribas/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adriribas&hide=contribs,prs,issues&count_private=true&show_icons=true#gh-light-mode-only)](https://github.com/adriribas/github-readme-stats#gh-light-mode-only) -->
-
-<!-- <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=adriribas&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=adriribas&hide=contribs,prs,issues&count_private=true&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=adriribas&hide=contribs,prs,issues&count_private=true&show_icons=true" />
-</picture> -->
-
 <br>
 
 ---
