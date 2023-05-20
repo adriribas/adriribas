@@ -18,7 +18,7 @@ Regarding front-end technologies, I have some experience with [Vue](https://vuej
 
 <br>
 
-In addition, right now I'm learning [React](https://react.dev/) and working with some of its most cutting edge environment tools. I have built a couple demo projects using this framework during my learning process. You can take a look to one of them below:
+In addition, right now I'm learning [React](https://react.dev/) and working with some of its most cutting edge environment tools. I have built a couple demo projects using this framework during my learning process. You can take a look at one of them below:
 
 <p align="center">
   <a href="https://github.com/adriribas/game-hub">
